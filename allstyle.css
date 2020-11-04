@@ -1,0 +1,189 @@
+@charset "utf-8";
+/* CSS Document */
+.a
+	{
+	    width: 100%;
+		background-color: #000000;
+	}
+	.b
+	{
+		width: 25%;
+		height: 280px;
+		background-color: #DDDDDD;
+	}
+	.b:hover
+	{
+	  
+	}
+.b img:hover
+{
+	   
+	    border-collapse: collapse;
+		resize: vertical;
+	    opacity: .6;
+}
+.b img
+{
+    border-radius: 60px 60px 0px 0px;
+}
+
+.b 
+{
+	border-radius: 60px 60px 60px 60px;
+}
+
+.c
+{
+    border: 2px solid #000000;
+}
+
+.btnv
+{
+	background-color:#01860C;
+	color: #FFFFFF;
+	height: 30px;
+	width: 60px;
+}
+.btnv:hover
+{
+	background-color: #0B5700;
+	color: #FFFFFF;
+	height: 30px;
+	width: 60px;
+}
+.btnn
+{
+	
+	background-color:#B50003;
+	color: #FFFFFF;
+	height: 30px;
+	width: 60px;
+}
+.btnn:hover
+{
+	background-color:#800002;
+	color: #FFFFFF;
+	height: 30px;
+	width: 60px;
+}
+
+.content-section
+{
+	height: 500px;
+	width: 100%;
+	background: radial-gradient(white,white,black);
+	align-content: center;
+}
+.content-section-order
+{
+	height: auto;
+	width: 100%;;
+	background: radial-gradient(white,white,black) ;
+	align-content:flex-start;
+}
+.cart-tbl
+{
+	height: auto;
+	width: 100%;
+	color: #000000;
+
+}
+.elements
+{
+	height: auto;
+	width: 60%;
+}
+.remove
+{
+	background-color: #444EFF;
+	color: #FFFFFF;
+	height: 30px;
+	width: 80px;
+}
+.remove:hover
+{
+	background: #0600A6;
+	color: #FFFFFF;
+}
+.cart-item-img
+{
+	height: 70px;
+	width: 70px;
+}
+.cart-item-qnty
+{
+	width: 50px;
+	height: 30px;
+}
+.cart-item-price
+{
+	height: 30px;
+	width: 70px;
+}
+.cart-img
+{
+	height: 40px;
+	width: 40px;
+}
+.bttn-purchase
+{
+	background: #C71114;
+	color: #FFFFFF;
+	height: 50px;
+	width: 250px;;
+	
+}
+.bttn-purchase:hover
+{
+	background:#D10047 ;
+	color: #000000;
+	
+}
+.btn-clr
+{
+	color: #FFFFFF;
+	outline: 0;
+}
+.btn-clr:hover
+{
+	color: #000000;
+	outline: 0;
+}
+.gif
+{
+	position:relative;
+}
+.mid-sec
+{
+	height: 500px;
+	width: 100%;;
+	background:#FFFFFF;
+	align-content:flex-start;
+}
+.order-address
+{
+	height: auto;
+	width: 60%;
+}
+.login
+{
+	background: #D80A0E;
+	color: #FFFFFF;
+	height: 30px;
+	width: 65px;
+}
+.login:hover
+{
+	background: #FF003F;
+	color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
